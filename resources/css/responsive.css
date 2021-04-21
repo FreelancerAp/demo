@@ -1,0 +1,191 @@
+@media only screen and (max-width:1200px){
+	.weDo_img img{
+	 width:90%;
+    }	
+	.weDo_img .img_scend img {
+    top: 50px;
+    left: 50px;
+   }
+	.about_section {
+    margin-top: -50px;
+    }
+	
+}
+@media only screen and (max-width:1024px){
+	.about_section {
+    margin-top: -50px;
+    }
+	.widget_padding {
+    padding-bottom: 135px;
+	}
+	.about_section {
+    margin-top: -30px;
+    }
+	.main_content {
+    padding-top: 100px;
+}.slider_content h1 {
+    
+    font-size: 45px;
+}.widget_padding {
+    padding-bottom: 253px;
+}
+.team_img {
+margin-top: 50px;
+}
+
+
+
+
+}
+@media only screen and (max-width:980px){
+		.about_section {
+			margin-top: 40px;
+		}
+		.main_content {
+		padding-top:0px;
+		}
+
+		.weDo_img img {
+		width: 100%;
+		}
+		.weDo_img .img_scend img {
+			top: 70px;
+			left: 70px;
+		}
+	    .top_icon{
+			right:40px;
+		}
+}
+@media only screen and (max-width:768px){
+	 .slider_content .p_slider1{
+	   font-size: 18px;
+       }
+	  .slider_content h1{
+	   font-size: 30px;
+       }
+	   .slider_content p{
+	   font-size: 14px;
+       }
+	  .slider_content .p_slider2 {
+      font-size: 13px;
+       }
+	  .our-btn {
+      padding: 4px 13px;
+      }
+	  .weDo_img img {
+       width: 75%;
+       }
+	   .baner_button a {
+      padding: 20px 41px;
+       }
+	   .baner_title h2 {
+       font-size: 25px;
+       }
+	   .widget_social ul li a {
+	   padding: 7px;
+	   }
+	   .widget_padding {
+        padding-bottom: 262px;
+       }
+}
+@media only screen and (max-width:480px){
+	.left_content ul {
+    display: block;
+    }
+	.left_content ul li {
+    padding: 1px 0;
+    }
+	.left_content ul li {
+    padding:0;
+    font-size: 13px;
+   }
+   .slider_content {
+    width:100%;
+	padding:0px 10px;
+      }
+	 .slider_content h1 {
+    font-size: 20px;
+	padding:0;
+	margin:0;
+      }
+	  .slider-arrow .left-arrow {
+    left: 12px;
+     }
+	.slider-arrow .left-arrow,
+	.slider-arrow .right-arrow {
+    font-size: 20px;
+     } 
+	 .our-btn {
+      margin:5px;
+      }
+	 .slider_content .p_slider2 {
+    
+      padding-right: 35px;
+      padding-left: 35px;
+     }
+	 .pointer-item{
+		 z-index:-9;
+	 }
+	 .about_img{
+	  background:#8bc34a;
+	  width:80%;
+     }
+	 .about_title {
+     padding-left:0px;
+      margin-top: 65px;
+     }
+	.team_img {
+    margin-top: 35px;
+	}
+	 .date_month {
+	 padding:5px;
+	 }
+	 .date {
+    font-size: 20px;
+    }
+	 .widget_padding {
+    padding-bottom: 5px;
+    }
+	.widget_img img {
+    width: auto;
+    }  
+	.widget_social ul li a {
+    padding-right: 25px;
+    padding-left: 25px;
+    }
+	 .subscribe {
+    padding-bottom: 20px;
+    }
+	 .navbar button {
+		 margin-right:20px;
+	 }
+	 .slider-arrow .right-arrow {
+    right: 15px;
+      }
+	.work_list {
+     padding-top: 35px;
+    text-align: center;
+      }
+	 .work_list ul{
+    display:inline-block;
+	
+    }.work_list ul li{
+    display:inline-block;
+    padding-right: 10px;
+    padding-left: 10px;
+    }
+	.container_item .my_padding {
+		padding:10px;
+     }
+	 
+	 
+	 
+	 
+	 
+}
+@media only screen and (max-width:320px){
+	
+	
+	
+	
+}
